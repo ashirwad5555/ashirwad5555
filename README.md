@@ -18,7 +18,7 @@
 - ☁️ Exploring **Cloud, IoT, and Embedded AI/ML**  
 - 🛠️ Experienced in **Mobile App Dev, Web Full-Stack, and Automation**  
 - 🏆 Hackathon Finalist | Flutter Head @ GDG PCCOE  
-- 📚 Creator of **Mini-Books**, **Exam Engine**, and **Food Recommendation System**  
+- 📚 Creator of **Mini-Books**, and **Food Recommendation System**  
 
 ---
 
@@ -65,10 +65,8 @@
 ---
 
 ### 🌟 Featured Projects  
-- 📖 **Mini-Books** – Flutter app for book summaries with Razorpay integration  
-- 📝 **Exam Engine** – Question paper generator (Python, Flask, React, Electron)  
+- 📖 **Mini-Books** – Flutter app for book summaries with Razorpay integration   
 - 🍔 **Food Recommender** – ML-powered recommendation system (FastAPI + React)  
-- 📡 **IoT Sensor Dashboard** – MQTT-based app (Flutter + Raspberry Pi)  
 
 ---
 
