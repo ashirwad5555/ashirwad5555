@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashirwad Rajeshwar Katkamwar</h1>
-<h3 align="center">🚀 Cross-Platform Full-Stack Developer | Mobile • Web • Cloud • IoT • ML</h3>
+<h3 align="center">🚀 Cross-Platform Full-Stack Developer | Mobile • Web • Cloud • Cyber Security • AI&ML</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ashirwad-katkamwar" target="_blank">
@@ -13,12 +13,12 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 B.Tech in Computer Engineering @ PCCOE, Pune (GPA: 9.2/10)  
+- 🎓 B.Tech in Computer Engineering @ PCCOE, Pune (GPA: 9/10)  
 - 💡 Passionate about building **scalable cross-platform apps** (Flutter, React, Electron)  
-- ☁️ Exploring **Cloud, IoT, and Embedded AI/ML**  
-- 🛠️ Experienced in **Mobile App Dev, Web Full-Stack, and Automation**  
+- ☁️ Exploring **Cloud, AI/ML and Cyber Security**  
+- 🛠️ Experienced in **Mobile App Dev, Web Full-Stack, Cyber security Automation**  
 - 🏆 Hackathon Finalist | Flutter Head @ GDG PCCOE  
-- 📚 Creator of **Mini-Books**, and **Food Recommendation System**  
+- 📚 Creator of **Mini-Books**, **Dream-brush**  and **Food Recommendation System**  
 
 ---
 
