@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashirwad Rajeshwar Katkamwar</h1>
+<h1 align="center">Hi 👋, I'm Ashirwad Katkamwar</h1>
 <h3 align="center">🚀 Cross-Platform Full-Stack Developer | Mobile • Web • Cloud • Cyber Security • AI&ML</h3>
 
 <p align="center">
